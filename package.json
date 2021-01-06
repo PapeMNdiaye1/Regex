@@ -1,0 +1,13 @@
+{
+  "name": "REGEX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "regex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node regex"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
